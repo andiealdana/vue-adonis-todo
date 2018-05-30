@@ -1,4 +1,5 @@
 'use strict'
+
 const Project = use ('App/Models/Project')
 const Task = use ('App/Models/Task')
 const AuthorizationService = use ('App/Services/AuthorizationService');
